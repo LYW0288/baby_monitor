@@ -1,13 +1,4 @@
-''' 
-Vital Signs : 2019/2/13 15:47
-ex0:
-Display heart rate & breathing rate data
-(1)Download lib:
-install:
-~#sudo pip intall mmWave
-update:
-~#sudo pip install mmWave -U
-'''
+
 import serial
 import struct
 import datetime
